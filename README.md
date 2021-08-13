@@ -32,7 +32,7 @@
 
 ### Chimpanzee-Clint-PTRv2
 
-[Complete Genome](https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Pan_troglodytes/latest_assembly_versions/GCF_002880755.1_Clint_PTRv2/GCF_002880755.1_Clint_PTRv2_genomic.fna.gz)
+[Complete Genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_002880755.1/)
 
 - [Chromosome 1](https://www.ncbi.nlm.nih.gov/nuccore/CM009238.2)
 - [Chromosome 9](https://www.ncbi.nlm.nih.gov/nuccore/CM009247.2)
