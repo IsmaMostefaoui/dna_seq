@@ -43,26 +43,19 @@
 - [Chromosome 11](https://www.ncbi.nlm.nih.gov/nuccore/CM009249.2)
 - [Chromosome 21](https://www.ncbi.nlm.nih.gov/nuccore/CM009259.2)
 
-## Alignment Sequence (.bam)
-
-
-
-## Alignement (.bam)
+## Alignement Sequence (.bam)
 
 ### NA12878
 
 [Chromosome 11](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/alignment/NA12878.chrom11.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
+[Chromosome 20](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/NA12878/alignment/NA12878.chrom20.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
 
-## Sequence (.fastq)
+## HG02852
 
-### NA12878
+[Chromosome 11](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG02852/alignment/HG02852.chrom11.ILLUMINA.bwa.GWD.low_coverage.20121211.bam)
+[Chromosome 20](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG02852/alignment/HG02852.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.bam)
 
-- [ERR001268_1](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001268_1.filt.fastq.gz)
-- [ERR001268_2](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001268_2.filt.fastq.gz)
-- [ERR001269_1](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001269_1.filt.fastq.gz)
-- [ERR001269_2](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001269_2.filt.fastq.gz)
-- [ERR001290_1](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001290_1.filt.fastq.gz)
-- [ERR001290_2](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001290_2.filt.fastq.gz)
-- [ERR001715_1](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001715_1.filt.fastq.gz)
-- [ERR001715_2](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001715_2.filt.fastq.gz)
+## HG00096
 
+[Chromosome 11](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG00096/alignment/HG00096.chrom11.ILLUMINA.bwa.GBR.low_coverage.20120522.bam)
+[Chromosome 20](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG00096/alignment/HG00096.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.bam)
