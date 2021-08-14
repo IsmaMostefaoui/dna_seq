@@ -45,6 +45,16 @@
 
 ## Alignment Sequence (.bam)
 
+
+
+## Alignement (.bam)
+
+### NA12878
+
+[Chromosome 11](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/alignment/NA12878.chrom11.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
+
+## Sequence (.fastq)
+
 ### NA12878
 
 - [ERR001268_1](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/sequence_read/ERR001268_1.filt.fastq.gz)
