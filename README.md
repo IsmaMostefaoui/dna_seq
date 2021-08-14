@@ -3,6 +3,10 @@
 
 ## Assembly Genome (.fasta)
 
+### Rice - Oryza Sativa - IRGSP-1.0
+
+[Complete Genom](https://www.ncbi.nlm.nih.gov/assembly/GCF_001433935.1)
+
 ### Human-GRCH38.p13
 
 [Complete Genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39)
