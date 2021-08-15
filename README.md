@@ -5,9 +5,13 @@
 
 Ressources from https://www.ncbi.nlm.nih.gov/assembly
 
-### Rice - Oryza Sativa - IRGSP-1.0
+### Rice - IRGSP-1.0
 
 [Complete Genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_001433935.1)
+
+### Rice - AzucenaRS1
+
+[Complete Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_009830595.1)
 
 ### Human-GRCH38.p13
 
