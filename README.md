@@ -3,7 +3,7 @@
 
 ## Assembly Genome (.fasta)
 
-Ressources from http://www.ncbi.nlm.nih.gov/assembly
+Ressources from https://www.ncbi.nlm.nih.gov/assembly
 
 ### Rice - Oryza Sativa - IRGSP-1.0
 
@@ -47,7 +47,7 @@ Ressources from http://www.ncbi.nlm.nih.gov/assembly
 
 ## Alignement Sequence (.bam)
 
-Ressources from http://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/
+Ressources from https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/
 
 ### NA12878
 
