@@ -3,6 +3,8 @@
 
 ## Assembly Genome (.fasta)
 
+Ressources from http://www.ncbi.nlm.nih.gov/assembly
+
 ### Rice - Oryza Sativa - IRGSP-1.0
 
 [Complete Genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_001433935.1)
@@ -45,9 +47,11 @@
 
 ## Alignement Sequence (.bam)
 
+Ressources from http://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/
+
 ### NA12878
 
-- [Chromosome 11](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/NA12878/alignment/NA12878.chrom11.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
+- [Chromosome 11](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/NA12878/alignment/NA12878.chrom11.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
 - [Chromosome 20](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/NA12878/alignment/NA12878.chrom20.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
 
 ## HG02852
