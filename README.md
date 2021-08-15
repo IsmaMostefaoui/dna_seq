@@ -8,10 +8,14 @@ Ressources from https://www.ncbi.nlm.nih.gov/assembly
 ### Rice - IRGSP-1.0
 
 [Complete Genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_001433935.1)
+[Chromosome 1](https://www.ncbi.nlm.nih.gov/nuccore/AP014957.1)
+
 
 ### Rice - AzucenaRS1
 
 [Complete Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_009830595.1)
+
+[Chromosome 1](https://www.ncbi.nlm.nih.gov/nuccore/CM020633.1)
 
 ### Human-GRCH38.p13
 
