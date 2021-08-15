@@ -63,12 +63,12 @@ Ressources from https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/
 - [Chromosome 11](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/NA12878/alignment/NA12878.chrom11.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
 - [Chromosome 20](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/NA12878/alignment/NA12878.chrom20.ILLUMINA.bwa.CEU.low_coverage.20121211.bam)
 
-## HG02852
+### HG02852
 
 - [Chromosome 11](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG02852/alignment/HG02852.chrom11.ILLUMINA.bwa.GWD.low_coverage.20121211.bam)
 - [Chromosome 20](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG02852/alignment/HG02852.chrom20.ILLUMINA.bwa.GWD.low_coverage.20121211.bam)
 
-## HG00096
+### HG00096
 
 - [Chromosome 11](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG00096/alignment/HG00096.chrom11.ILLUMINA.bwa.GBR.low_coverage.20120522.bam)
 - [Chromosome 20](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/phase3/data/HG00096/alignment/HG00096.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.bam)
